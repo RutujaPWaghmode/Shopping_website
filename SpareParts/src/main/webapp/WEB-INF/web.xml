@@ -1,0 +1,19 @@
+<web-app>
+<servlet>
+
+ 
+       <servlet-name>SpareParts</servlet-name>
+       <servlet-class>SpareParts</servlet-class>
+    
+    
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>SpareParts</servlet-name>
+        <url-pattern>/SpareParts</url-pattern>
+    </servlet-mapping>
+   
+
+   
+ 
+</web-app>
